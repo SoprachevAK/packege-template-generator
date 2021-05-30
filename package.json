@@ -1,0 +1,18 @@
+{
+  "name": "com.soprachevak.packege-template-generator",
+  "version": "1.0.0",
+  "displayName": "Packege template generator",
+  "description": "Editor window generated packege template",
+  "dependencies": {},
+  "keywords": [
+    "Packege",
+"template",
+"generator"
+  ],
+  "author": {
+    "name": "Soprachev Andrei",
+    "email": "soprachev@mail.ru",
+    "url": "https://soprachev.com"
+  },
+  "unity": "2019.4"
+}
